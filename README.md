@@ -1,2 +1,2 @@
-# Leetcode Grind
+# Leetcode
  My Leetcode practice and solutions
